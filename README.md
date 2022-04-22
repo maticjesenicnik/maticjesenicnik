@@ -33,7 +33,7 @@ skills.
 
 ## Stats:
 <div>
-<img height="215px" src="https://github-readme-stats.vercel.app/api?username=maticjesenicnik&show_icons=true&theme=radical" />
-<img align="right" height="215px" alt="Discord Status" src="https://lanyard.cnrad.dev/api/181820639089393665?bg=1f1f1f&borderRadius=5px">
+<img src="https://github-readme-stats.vercel.app/api?username=maticjesenicnik&show_icons=true&theme=radical" />
+<img alt="Discord Status" src="https://lanyard.cnrad.dev/api/181820639089393665?bg=1f1f1f&borderRadius=5px">
 </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maticjesenicnik&layout=compact&theme=radical" />  
