@@ -32,8 +32,11 @@ skills.
 - [ ] - Improve on my coding skills
 
 ## Stats:
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=maticjesenicnik&show_icons=true&theme=radical" />
-<img alt="Discord Status" src="https://lanyard.cnrad.dev/api/181820639089393665?bg=1f1f1f&borderRadius=5px">
+<div style="width: 100%; margin: 0; padding: 0">
+<img style="width: 56%;" src="https://github-readme-stats.vercel.app/api?username=maticjesenicnik&show_icons=true&theme=radical" />
+<img style="width: 43%;" alt="Discord Status" src="https://lanyard.cnrad.dev/api/181820639089393665?bg=1f1f1f&borderRadius=5px">
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maticjesenicnik&layout=compact&theme=radical" />  
+<div style="width: 100%;">
+<img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maticjesenicnik&layout=compact&theme=radical" />
+<img style="width: 54%;" src="https://github-readme-streak-stats.herokuapp.com/?user=maticjesenicnik&theme=tokyonight" alt="mystreak"/>
+</div>
