@@ -32,5 +32,5 @@
 </div>
 <div style="width: 100%;">
 <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maticjesenicnik&layout=compact&theme=radical" />
-<img style="width: 54%;" src="https://github-readme-streak-stats.herokuapp.com/?user=maticjesenicnik&theme=tokyonight" alt="mystreak"/>
+<img style="width: 54%;" src="https://github-readme-streak-stats.herokuapp.com/?user=maticjesenicnik&theme=radical" alt="mystreak"/>
 </div>
