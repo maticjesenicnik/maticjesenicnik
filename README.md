@@ -13,7 +13,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img src="https://img.icons8.com/color/30/0080FF/css3.png"/></a>
 <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a> 
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
-<a href="https://www.java.com/en/"><img src="https://img.icons8.com/color/30/0080FF/java.png"/></a>
+<a href="https://www.java.com/en/"><img src="https://img.icons8.com/?size=30&id=Pd2x9GWu9ovX&format=png&color=000000"/></a>
 <a href="https://kotlinlang.org"><img src="https://img.icons8.com/color/30/0080FF/kotlin.png"/></a>
   
 ## Future projects and goals:
