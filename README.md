@@ -1,11 +1,10 @@
 <img style="width: 200px; height: 200px;" alt="Matic Jesenicnik" src="https://avatars.githubusercontent.com/maticjesenicnik">
 
-<h1>Matic Jeseničnik <br />
-<img src="https://komarev.com/ghpvc/?username=maticjesenicnik&label=Profile%20views&color=000000&style=flat" alt="maticjesenicnik" />
-<a href="https://github.com/maticjesenicnik/"><img src="https://img.shields.io/badge/-Github-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/maticjesenicnik" alt="GitHub Badge"/></a>
-<a href="https://twitter.com/MaticJesenicnik"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/izakdvlpr" alt="Twitter Badge"/></a>
-<a href="https://discord.com/users/181820639089393665"><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=white&link=https://discord.com/users/461273822360895491" alt="Discord Badge"/></a>
-  </h1>
+<h1>Matic Jeseničnik</h1>
+<!--<img src="https://komarev.com/ghpvc/?username=maticjesenicnik&label=Profile%20views&color=000000&style=flat" alt="maticjesenicnik" />-->
+<!--<a href="https://github.com/maticjesenicnik/"><img src="https://img.shields.io/badge/-Github-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/maticjesenicnik" alt="GitHub Badge"/></a>-->
+<!--<a href="https://twitter.com/MaticJesenicnik"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/izakdvlpr" alt="Twitter Badge"/></a>-->
+<!--<a href="https://discord.com/users/181820639089393665"><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=white&link=https://discord.com/users/461273822360895491" alt="Discord Badge"/></a>-->
 <p style="margin-top: 20px;">👋 Hi, I am Matic and I'm currently a BPM developer. <br />I am 25 years old and always thriving for new opportunities and projects where I could improve my coding skills.</p>
     
 <h2>Languages I use:</h2>
