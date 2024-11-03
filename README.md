@@ -19,10 +19,8 @@
 - [ ] - Create portfolio website to show off projects
 - [ ] - Create a Minecraft plugin or a Minecraft mod
 - [ ] - Create my own SaaS
-- [ ] - Create a useful discord bot
 - [ ] - Start writting a development blog
 - [ ] - Create a social media presence
-- [ ] - Improve on my coding skills
 
 ## Stats:
 <div style="width: 100%; margin: 0; padding: 0">
