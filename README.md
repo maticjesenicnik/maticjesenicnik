@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/React-05122A?style=flat&logo=react">
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql">
 </div>
