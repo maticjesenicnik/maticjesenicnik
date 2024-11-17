@@ -6,14 +6,16 @@
 <p>In my free time, I focus on web development and expanding my skills. I earned a certification in React through the Udemy course React – The Complete Guide (incl. Redux), which has enhanced my frontend development expertise. One of the projects I’ve worked on is designing and maintaining the website for Silver Coin: Age of Monster Hunters, which is built using Next.js, with React knowledge applied throughout the development. This project allowed me to deepen my skills in modern web technologies while contributing to the game's increased visibility and sales. I’m passionate about building interactive, user-friendly websites and continuously learning new tools and frameworks.</p>
     
 <h2>Languages I use:</h2>
-<img src="https://img.shields.io/badge/.NET%20Core-05122A?style=flat&logo=dotnet">&nbsp;
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />&nbsp;
-<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" />&nbsp;
-<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" />&nbsp;
-<img src="https://img.shields.io/badge/React-05122A?style=flat&logo=react">&nbsp;
-<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />&nbsp;
-<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />&nbsp;
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" />&nbsp;
+<div>
+  <img src="https://img.shields.io/badge/.NET%20Core-05122A?style=flat&logo=dotnet">
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" />
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/React-05122A?style=flat&logo=react">
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" />
+</div>
 
 
   
